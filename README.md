@@ -50,9 +50,6 @@ Interesse em **C**, **Python**, **TypeScript/Rust** e arquitetura de aplicaçõe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atlantus-network&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=false" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlantus-network&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlantus-network&theme=react&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
