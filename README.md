@@ -51,16 +51,13 @@ Trabalho onde **robustez importa**: memória previsível, concorrência bem defi
 
 ---
 
-## Atividade
+## Estatísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atlantus-network&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide=issues,contribs&rank_icon=none" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlantus-network&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,vue" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atlantus-network&theme=react&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
-
-<!-- Versao anterior (streak): ver README.backup.md -->
 
 ---
 
