@@ -35,18 +35,6 @@ Trabalho onde **robustez importa**: memória previsível, concorrência bem defi
 
 ---
 
-## Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**cmemorywork**](https://github.com/atlantus-network/cmemorywork) | C em baixo nível: memória, desempenho e armadilhas comuns | `C` |
-| [**snake-fun**](https://github.com/atlantus-network/snake-fun) | Loop de jogo clássico — base de simulação e input | `Python` |
-| [**weerest-ai**](https://github.com/atlantus-network/weerest-ai) | Hub com API Go + SPA React, pronto para deploy | `Go` `React` |
-| [**weerest**](https://github.com/atlantus-network/weerest) | Plataforma WEE.REST | `TypeScript` |
-| [**orbit-wee**](https://github.com/atlantus-network/orbit-wee) | Studio, admin e vitrine — painel operacional | `TypeScript` |
-
----
-
 ## Stack
 
 <p align="center">
